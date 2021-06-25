@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Ophelia
 - 👀 I’m interested in HLSL, GLSL
-- 🌱 I’m currently learning Lot of things in Coding
-- 💞️ I’m looking to collaborate on Help
+- 🌱 I’m currently learning a lot of things about Coding
+- 💞️ I'm looking forward Help on collaborations
 - 📫 How to reach me? using my email: natshinapolo@gmail.com
 
 <!---
